@@ -1,0 +1,14 @@
+@layer base {
+  :root {
+    --primary-gradient: linear-gradient(
+      to right,
+      #360c79,
+      #20375e
+    );
+  }
+}
+@layer utilities {
+  .bg-primary-gradient {
+    background: var(--primary-gradient);
+  }
+}

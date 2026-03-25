@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn.pixabay.com/photo/2018/01/28/10/59/internet-3113279_1280.jpg",
+    "title": "ChatMaster",
+    "companyName": "TechNova Ltd",
+    "id": 1,
+    "description": "A fast and secure messaging app with AI features.",
+    "size": 45,
+    "reviews": 12450,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5750 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/16/40/food-1846361_1280.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthCorp",
+    "id": 2,
+    "description": "Track workouts, calories, and daily health stats.",
+    "size": 60,
+    "reviews": 9800,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/01/17/16/42/food-4773380_1280.jpg",
+    "title": "Foodiez",
+    "companyName": "QuickBite Inc",
+    "id": 3,
+    "description": "Order food from your favorite restaurants.",
+    "size": 55,
+    "reviews": 15200,
+    "ratingAvg": 4.6,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
+    "title": "EduLearn",
+    "companyName": "BrightFuture",
+    "id": 4,
+    "description": "Interactive courses and learning materials.",
+    "size": 70,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/03/25/12/41/beach-4967176_1280.jpg",
+    "title": "TravelMate",
+    "companyName": "WanderSoft",
+    "id": 5,
+    "description": "Plan trips and discover new destinations.",
+    "size": 65,
+    "reviews": 6400,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2024/06/13/01/30/clover-8826598_1280.png",
+    "title": "PhotoSnap",
+    "companyName": "PixelWorks",
+    "id": 6,
+    "description": "Edit photos with powerful AI tools.",
+    "size": 80,
+    "reviews": 21000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 9900 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/12/13/20/49/guitar-5829331_1280.jpg",
+    "title": "MusicWave",
+    "companyName": "SoundHub",
+    "id": 7,
+    "description": "Stream millions of songs online.",
+    "size": 50,
+    "reviews": 30000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 14300 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2016/11/03/07/16/agenda-1793664_1280.jpg",
+    "title": "NotePro",
+    "companyName": "WriteTech",
+    "id": 8,
+    "description": "Take notes and organize your ideas.",
+    "size": 30,
+    "reviews": 7200,
+    "ratingAvg": 4.1,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2019/02/05/20/00/anemometer-3977718_1280.jpg",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "id": 9,
+    "description": "Real-time weather forecasts and alerts.",
+    "size": 25,
+    "reviews": 5600,
+    "ratingAvg": 4.0,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/15/08/playstation-1845880_1280.jpg",
+    "title": "GameZone",
+    "companyName": "PlayCore",
+    "id": 10,
+    "description": "Play exciting mini games in one app.",
+    "size": 90,
+    "reviews": 40000,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 24500 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2021/11/13/18/18/five-swiss-francs-6792024_1280.jpg",
+    "title": "FinanceFlow",
+    "companyName": "MoneyMatters",
+    "id": 11,
+    "description": "Manage your expenses and savings easily.",
+    "size": 40,
+    "reviews": 8300,
+    "ratingAvg": 4.3,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/04/17/11/38/letters-5054718_1280.jpg",
+    "title": "LanguageLab",
+    "companyName": "LinguaTech",
+    "id": 12,
+    "description": "Learn new languages quickly and effectively.",
+    "size": 75,
+    "reviews": 9100,
+    "ratingAvg": 4.5,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2019/10/07/12/08/online-shopping-4532460_1280.jpg",
+    "title": "ShopEasy",
+    "companyName": "RetailHub",
+    "id": 13,
+    "description": "Shop for the best deals online.",
+    "size": 85,
+    "reviews": 17800,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/06/04/17/35/garment-racks-5259773_1280.jpg",
+    "title": "TaskHero",
+    "companyName": "Productive Inc",
+    "id": 14,
+    "description": "Organize tasks and boost productivity.",
+    "size": 35,
+    "reviews": 6200,
+    "ratingAvg": 4.2,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2017/12/30/13/41/new-3050092_1280.jpg",
+    "title": "NewsFlash",
+    "companyName": "GlobalNews",
+    "id": 15,
+    "description": "Stay updated with breaking news worldwide.",
+    "size": 28,
+    "reviews": 5400,
+    "ratingAvg": 4.1,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2014/05/02/12/41/candle-335965_1280.jpg",
+    "title": "MeditateMe",
+    "companyName": "CalmMind",
+    "id": 16,
+    "description": "Guided meditation and relaxation exercises.",
+    "size": 48,
+    "reviews": 7600,
+    "ratingAvg": 4.6,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2023/04/24/10/37/car-7947765_1280.jpg",
+    "title": "RideNow",
+    "companyName": "MoveFast",
+    "id": 17,
+    "description": "Book rides quickly and affordably.",
+    "size": 52,
+    "reviews": 11200,
+    "ratingAvg": 4.3,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg",
+    "title": "CodeLab",
+    "companyName": "DevWorks",
+    "id": 18,
+    "description": "Learn coding with interactive lessons.",
+    "size": 95,
+    "reviews": 6800,
+    "ratingAvg": 4.7,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2018/03/08/19/00/animal-3209499_1280.jpg",
+    "title": "PetCare",
+    "companyName": "AnimalSoft",
+    "id": 19,
+    "description": "Manage your pet's health and activities.",
+    "size": 42,
+    "reviews": 4300,
+    "ratingAvg": 4.2,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1250 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/04/25/13/52/planning-5090900_1280.jpg",
+    "title": "EventHub",
+    "companyName": "SocialSync",
+    "id": 20,
+    "description": "Discover and manage local events.",
+    "size": 58,
+    "reviews": 5100,
+    "ratingAvg": 4.3,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 1680 }
+    ]
+  }
+]
