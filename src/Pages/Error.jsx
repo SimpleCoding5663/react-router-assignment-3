@@ -10,7 +10,7 @@ export default function NotFound() {
           <img src={error} alt="/" className="h-48 w-full object-cover"/>
         </figure>
         <h2 className="text-2xl font-semibold mb-2">
-          Oops, page not found!
+          Oops, page not found !
         </h2>
         <p className="text-base-content/70 mb-6">
           The page you are looking for is not found.

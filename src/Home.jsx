@@ -86,10 +86,10 @@ function Home() {
           </div>
         </div>
       </section>
-      <section className="trending-apps py-10">
+      <section className="trending-apps py-20">
         <div className="heading text-center">
-          <h2 className="text-3xl font-bold mb-4">Trending Apps</h2>
-          <p className="text-lg mb-10">
+          <h2 className="text-3xl font-bold mb-4 text-gray-950">Trending Apps</h2>
+          <p className="text-xl font-semibold mb-20 text-gray-500">
             Explore All Trending Apps On The Market Developed By Us
           </p>
         </div>
@@ -108,7 +108,7 @@ function Home() {
 
                   <div className="flex justify-between mt-3 text-sm">
                     <span>⭐ {app.ratingAvg}</span>
-                    <span>Reviews: {app.reviews}</span>
+                    <span>Reviews : {app.reviews}</span>
                   </div>
                 </div>
               </div>
@@ -116,7 +116,7 @@ function Home() {
           }
         </div>
         <div className="show-all text-center  pt-16">
-          <Link to="/app" className="btn bg-primary-gradient text-white">Show All</Link>
+          <Link to="/app" className="btn bg-primary-gradient text-white">Show All App</Link>
         </div>
         
       </section>

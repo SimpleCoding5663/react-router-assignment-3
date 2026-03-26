@@ -38,8 +38,8 @@ export default function App() {
 
       {/* Heading */}
       <div className="heading text-center">
-        <h2 className="text-3xl font-bold mb-4">All Apps</h2>
-        <p className="text-lg mb-10">
+        <h2 className="text-3xl font-bold mb-4 text-gray-950">All Apps</h2>
+        <p className="text-xl font-semibold mb-10 text-gray-500">
           Explore All Apps On The Market Developed By Us
         </p>
       </div>
@@ -48,7 +48,7 @@ export default function App() {
       <div className="w-11/12 mx-auto mb-8 flex flex-col md:flex-row 
       justify-between items-center gap-4">
 
-        <h3 className="text-xl font-semibold">
+        <h3 className="text-xl font-semibold text-gray-800">
           Total Apps: {filteredApps.length}
         </h3>
 
@@ -58,25 +58,17 @@ export default function App() {
             placeholder="Search apps..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="input input-bordered w-full pl-10"
+            className="input w-full pl-10 focus:border-none outline-gray-500"
           />
-          <span className="absolute left-3 top-2.5">🔍</span>
+          <span className="absolute left-3 top-2.5 text-gray-500"><i class="fa-solid fa-magnifying-glass"></i></span>
         </div>
 
       </div>
 
-      {/* No App Found */}
-      {
-        filteredApps.length === 0 && (
-          <div className="text-center text-2xl font-semibold py-20">
-            No App Found
-          </div>
-        )
-      }
 
       {/* Apps Grid */}
       <div className="w-11/12 mx-auto grid grid-cols-1 
-      md:grid-cols-2 lg:grid-cols-4 gap-6">
+      md:grid-cols-2 lg:grid-cols-4 gap-6 py-20">
 
         {
           filteredApps.map(app => (
@@ -98,13 +90,9 @@ export default function App() {
                     {app.companyName}
                   </p>
 
-                  <p className="text-sm line-clamp-2">
-                    {app.description}
-                  </p>
-
                   <div className="flex justify-between mt-3 text-sm">
                     <span>⭐ {app.ratingAvg}</span>
-                    <span>⬇ {app.downloads}</span>
+                    <span>Reviews : {app.reviews}</span>
                   </div>
 
                 </div>

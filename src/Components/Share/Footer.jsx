@@ -26,9 +26,9 @@ export default function Footer() {
         <div>
           <h6 className="text-gray-300 font-semibold mb-3">Company</h6>
           <ul className="space-y-2">
-            <li><a className="hover:text-white">About Us</a></li>
-            <li><a className="hover:text-white">Careers</a></li>
-            <li><a className="hover:text-white">Press & Media</a></li>
+            <li><a>About Us</a></li>
+            <li><a>Careers</a></li>
+            <li><a>Press & Media</a></li>
           </ul>
         </div>
 
@@ -36,9 +36,9 @@ export default function Footer() {
         <div>
           <h6 className="text-gray-300 font-semibold mb-3">Services</h6>
           <ul className="space-y-2">
-            <li><a className="hover:text-white">Trending Apps</a></li>
-            <li><a className="hover:text-white">Top Rated Apps</a></li>
-            <li><a className="hover:text-white">New Releases</a></li>
+            <li><a>Trending Apps</a></li>
+            <li><a>Top Rated Apps</a></li>
+            <li><a>New Releases</a></li>
           </ul>
         </div>
 
@@ -46,9 +46,9 @@ export default function Footer() {
         <div>
           <h6 className="text-gray-300 font-semibold mb-3">Support</h6>
           <ul className="space-y-2">
-            <li><a className="hover:text-white">Help Center</a></li>
-            <li><a className="hover:text-white">Privacy Policy</a></li>
-            <li><a className="hover:text-white">Terms Of Services</a></li>
+            <li><a>Help Center</a></li>
+            <li><a>Privacy Policy</a></li>
+            <li><a>Terms Of Services</a></li>
           </ul>
         </div>
 
