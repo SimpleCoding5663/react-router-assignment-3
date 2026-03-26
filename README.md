@@ -1,12 +1,41 @@
-# React + Vite
+# Apps Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Description
 
-Currently, two official plugins are available:
+Apps Hub is a modern React-based web application where users can explore trending and useful mobile applications.
+Users can view all available apps, check detailed information like ratings, downloads, reviews, and install size.
+The platform provides a clean UI, smooth navigation using React Router, and dynamic data loading from JSON.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* View Trending Apps on Home Page
+* Explore All Apps
+* Dynamic App Details Page
+* Ratings Breakdown with Progress Bar
+* Responsive Design (Mobile / Tablet / Desktop)
+* Client-side Routing using React Router
+* Live Data Fetching from JSON
+
+
+## Technologies Used
+
+*  React JS
+*  React Router DOM
+*  Tailwind CSS
+*  DaisyUI
+*  Vite
+*  JavaScript (ES6)
+*  JSON Data Handling
+
+
+## Installation
+
+Clone the project and install dependencies:
+
+npm install
+npm run dev
+
+## Author
+
+Developed as a Final Year React Router Project.
